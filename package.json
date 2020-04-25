@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/patrick-borje/coronavirus-tracker.git",
   "name": "corona-app",
   "version": "0.1.0",
   "private": true,
