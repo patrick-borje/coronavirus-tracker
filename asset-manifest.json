@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b55afae5.chunk.css",
-    "main.js": "/static/js/main.1b418397.chunk.js",
-    "main.js.map": "/static/js/main.1b418397.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.76f7158a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.76f7158a.js.map",
-    "static/js/2.65268254.chunk.js": "/static/js/2.65268254.chunk.js",
-    "static/js/2.65268254.chunk.js.map": "/static/js/2.65268254.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a023abf8f77230c072e9e4276dff0ccd.js": "/precache-manifest.a023abf8f77230c072e9e4276dff0ccd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b55afae5.chunk.css.map": "/static/css/main.b55afae5.chunk.css.map",
-    "static/js/2.65268254.chunk.js.LICENSE.txt": "/static/js/2.65268254.chunk.js.LICENSE.txt"
+    "main.css": "/patrick-borje/coronavirus-tracker.git/static/css/main.b55afae5.chunk.css",
+    "main.js": "/patrick-borje/coronavirus-tracker.git/static/js/main.1b418397.chunk.js",
+    "main.js.map": "/patrick-borje/coronavirus-tracker.git/static/js/main.1b418397.chunk.js.map",
+    "runtime-main.js": "/patrick-borje/coronavirus-tracker.git/static/js/runtime-main.26c1f621.js",
+    "runtime-main.js.map": "/patrick-borje/coronavirus-tracker.git/static/js/runtime-main.26c1f621.js.map",
+    "static/js/2.76463db4.chunk.js": "/patrick-borje/coronavirus-tracker.git/static/js/2.76463db4.chunk.js",
+    "static/js/2.76463db4.chunk.js.map": "/patrick-borje/coronavirus-tracker.git/static/js/2.76463db4.chunk.js.map",
+    "index.html": "/patrick-borje/coronavirus-tracker.git/index.html",
+    "precache-manifest.eb6b0fbcabcb8e0d3489762f4ccc58cf.js": "/patrick-borje/coronavirus-tracker.git/precache-manifest.eb6b0fbcabcb8e0d3489762f4ccc58cf.js",
+    "service-worker.js": "/patrick-borje/coronavirus-tracker.git/service-worker.js",
+    "static/css/main.b55afae5.chunk.css.map": "/patrick-borje/coronavirus-tracker.git/static/css/main.b55afae5.chunk.css.map",
+    "static/js/2.76463db4.chunk.js.LICENSE.txt": "/patrick-borje/coronavirus-tracker.git/static/js/2.76463db4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76f7158a.js",
-    "static/js/2.65268254.chunk.js",
+    "static/js/runtime-main.26c1f621.js",
+    "static/js/2.76463db4.chunk.js",
     "static/css/main.b55afae5.chunk.css",
     "static/js/main.1b418397.chunk.js"
   ]
