@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/patrick-borje/coronavirus-tracker.git/static/css/main.b55afae5.chunk.css",
-    "main.js": "/patrick-borje/coronavirus-tracker.git/static/js/main.1b418397.chunk.js",
-    "main.js.map": "/patrick-borje/coronavirus-tracker.git/static/js/main.1b418397.chunk.js.map",
-    "runtime-main.js": "/patrick-borje/coronavirus-tracker.git/static/js/runtime-main.26c1f621.js",
-    "runtime-main.js.map": "/patrick-borje/coronavirus-tracker.git/static/js/runtime-main.26c1f621.js.map",
-    "static/js/2.76463db4.chunk.js": "/patrick-borje/coronavirus-tracker.git/static/js/2.76463db4.chunk.js",
-    "static/js/2.76463db4.chunk.js.map": "/patrick-borje/coronavirus-tracker.git/static/js/2.76463db4.chunk.js.map",
-    "index.html": "/patrick-borje/coronavirus-tracker.git/index.html",
-    "precache-manifest.eb6b0fbcabcb8e0d3489762f4ccc58cf.js": "/patrick-borje/coronavirus-tracker.git/precache-manifest.eb6b0fbcabcb8e0d3489762f4ccc58cf.js",
-    "service-worker.js": "/patrick-borje/coronavirus-tracker.git/service-worker.js",
-    "static/css/main.b55afae5.chunk.css.map": "/patrick-borje/coronavirus-tracker.git/static/css/main.b55afae5.chunk.css.map",
-    "static/js/2.76463db4.chunk.js.LICENSE.txt": "/patrick-borje/coronavirus-tracker.git/static/js/2.76463db4.chunk.js.LICENSE.txt"
+    "main.css": "/coronavirus-tracker/static/css/main.b55afae5.chunk.css",
+    "main.js": "/coronavirus-tracker/static/js/main.1b418397.chunk.js",
+    "main.js.map": "/coronavirus-tracker/static/js/main.1b418397.chunk.js.map",
+    "runtime-main.js": "/coronavirus-tracker/static/js/runtime-main.1902057a.js",
+    "runtime-main.js.map": "/coronavirus-tracker/static/js/runtime-main.1902057a.js.map",
+    "static/js/2.72bfd3ad.chunk.js": "/coronavirus-tracker/static/js/2.72bfd3ad.chunk.js",
+    "static/js/2.72bfd3ad.chunk.js.map": "/coronavirus-tracker/static/js/2.72bfd3ad.chunk.js.map",
+    "index.html": "/coronavirus-tracker/index.html",
+    "precache-manifest.86972a04f3a7baae6ac3c8a5b867ce65.js": "/coronavirus-tracker/precache-manifest.86972a04f3a7baae6ac3c8a5b867ce65.js",
+    "service-worker.js": "/coronavirus-tracker/service-worker.js",
+    "static/css/main.b55afae5.chunk.css.map": "/coronavirus-tracker/static/css/main.b55afae5.chunk.css.map",
+    "static/js/2.72bfd3ad.chunk.js.LICENSE.txt": "/coronavirus-tracker/static/js/2.72bfd3ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.26c1f621.js",
-    "static/js/2.76463db4.chunk.js",
+    "static/js/runtime-main.1902057a.js",
+    "static/js/2.72bfd3ad.chunk.js",
     "static/css/main.b55afae5.chunk.css",
     "static/js/main.1b418397.chunk.js"
   ]
